@@ -14,5 +14,5 @@ export declare class Llama3Tokenizer {
     runTests(tests?: (tokenizer: Llama3Tokenizer) => boolean): void
 }
 declare const llama3Tokenizer: Llama3Tokenizer;
-export default llama3Tokenizer;
+export llama3Tokenizer;
 //# sourceMappingURL=types.d.ts.map
