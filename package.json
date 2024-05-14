@@ -13,7 +13,6 @@
     "llm",
     "tokenizer"
   ],
-  "type": "module",
   "author": "Belladore <135602125+belladoreai@users.noreply.github.com> (https://belladore.ai)",
   "license": "MIT",
   "bugs": {
